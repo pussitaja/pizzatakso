@@ -1,6 +1,8 @@
 <template>
   <Head>
-    <title>Pizza Takso – Sinu pizza abimees veebis</title>
+    <title>Pizza Takso – Keegi ei jää ilma</title>
+    <meta name="description" content="Kui mul kõht on Pizza Takso, väga tühi Pizza Takso siis ma tellin suure pizza Pizza Taksoga.">
+    <meta property="og:image" content="/og-image.jpg">
     <link
       rel="apple-touch-icon"
       sizes="180x180"
