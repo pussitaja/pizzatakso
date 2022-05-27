@@ -1,0 +1,28 @@
+:root {
+    --pizzakollane: #fbfa54;
+}
+
+@keyframes pizzaRotate {
+    0% {
+       left: 0vw;
+       top: 0vh;
+    }
+    25% {
+       left: 100vw;
+       top: 100vh;
+    }
+    50% {
+        left: 0vw;
+        top: 100vh;
+    }
+    100% {
+        top: 0vh;
+        left: 100vw;
+    }
+}
+
+body {
+    background-color: yellow;
+    background: url(/pizza.png) repeat center center fixed YELLOW;
+    overflow: hidden;
+}
