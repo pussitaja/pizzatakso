@@ -30,8 +30,8 @@
   <Logo />
   <Video />
   <BgVideo />
-  <Banner w="300px" h="300px" pos="left" img="/auto.gif" />
-  <Banner w="200px" h="500px" pos="right" img="/auto.gif" />
+  <Banner w="200px" h="100px" pos="left" img="/auto.gif" />
+  <Banner w="100px" h="300px" pos="right" img="/auto.gif" />
   <Banner w="100vw" h="40px" pos="bottom" img="/auto.gif" />
   <div><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=134951&s=24' border='0' /></div>
 </template>
