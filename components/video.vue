@@ -6,8 +6,8 @@
 
 <style lang="scss">
     .video {
-        width: 100%;
-        max-width: 600px;
+        width: 90%;
+        max-width: 500px;
         height: auto;
         border: none;
         position: absolute;
