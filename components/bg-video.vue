@@ -1,5 +1,5 @@
 <template>
-    <img class="bgif" src="/nopitsa.gif" />
+    <img class="bgif" src="/nopitsa2.gif" />
 </template>
 
 <style lang="scss">

@@ -34,7 +34,7 @@
     <ol>
       <li>La Prima</li>
       <li>Kajakas</li>
-      <li>St. Lucia</li>
+      <li>Jahu</li>
     </ol>
   </TopList>
   <BgVideo />
