@@ -35,12 +35,12 @@
   <TopList>
     <span style="text-decoration: underline">Parim pizza selge see:</span>
     <ol>
-      <li>Suvila</li>
+      <li>Barbarea</li>
+      <li>F-hoone</li>
       <li>La Prima</li>
-      <li>Peetri</li>
+      uuendatud: 31.10.2024
     </ol>
   </TopList>
-  <BgVideo />
   <Banner w="200px" h="100px" pos="left" img="/auto.gif" />
   <Banner w="100px" h="300px" pos="right" img="/auto.gif" />
   <Banner w="100vw" h="40px" pos="bottom" img="/auto.gif" />
